@@ -17,11 +17,11 @@ isPresent = true;
 firstName = "Jackie";
 lastName = "Chan";
 
-console.log(a + str);
-console.log(a + str2);
-console.log(a + isPresent);
-console.log(a + firstName);
-console.log(a + lastName);
+console.log(c + str);
+console.log(c + str2);
+console.log(c + isPresent);
+console.log(c + firstName);
+console.log(c + lastName);
 
 let d = 5;
 let str3 = "5";
