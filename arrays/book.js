@@ -1,5 +1,5 @@
 let book = {
-    title: "In The Miso Soup",
+    title: "In The Miso Soup by Ryu Murakami",
     pages: 200,
     readCount: 1,
     output: function () {
