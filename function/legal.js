@@ -8,7 +8,7 @@ function checkAge (userName, age) {
         if (age >= 16) {
             console.log(aboveSixteen)
 
-        } else if (age < 16) {
+        } else if(age < 16) {
         console.log(belowSixteen)
         }
 }
